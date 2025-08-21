@@ -180,6 +180,7 @@ main {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    justify-content: center;
 }
 
 /* Place text in the middle of the image */
@@ -189,6 +190,7 @@ main {
     left: 37%;
     transform: translate(-50%, -50%);
     color: white;
+    text-align: center;
 }
 
 .container {
